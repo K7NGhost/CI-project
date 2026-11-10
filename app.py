@@ -5,7 +5,7 @@ import argparse
 
 def add_numbers(a: int | float, b: int | float) -> int | float:
     """Return the sum of two numbers."""
-    return a - b
+    return a + b
 
 
 def main() -> None:
