@@ -27,4 +27,4 @@ All 10 tests should pass.
 
 - `app.py` - application code.
 - `tests/test_app.py` - automated tests.
-- `Jenkinsfile` - tells Jenkins to run the tests and application.
+- `Jenkinsfile` - tells Jenkins to run the tests and application..
